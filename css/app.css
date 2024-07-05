@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+button{
+    width: 100px;
+    padding: 5px 0;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    color: white;
+}
+li{
+   margin-top: 15px;
+}
+.check-btn{
+    text-decoration: line-through;
+}
